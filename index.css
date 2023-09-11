@@ -1,0 +1,30 @@
+#imagemLogo {
+    width: 120px; /* Define a largura desejada */
+    height: 100px;
+    
+}
+  .link-growdev {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+  }
+ 
+  
+  .detail-movie {
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .item-hover:hover .detail-movie {
+    display: block;
+  }
+  
+  .modal-content-movie {
+    background-color: transparent;
+  }
+  
+  
+ 
+  

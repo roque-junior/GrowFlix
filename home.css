@@ -1,0 +1,14 @@
+#imagemLogo {
+    width: 120px; /* Define a largura desejada */
+    height: 100px;
+    
+}
+
+header {
+    background-image: url('./imagens/banner-initial.png'); /* Substitua 'caminho-da-sua-imagem.jpg' pelo caminho da sua imagem de fundo */
+    background-size: cover; /* Para cobrir todo o cabeçalho com a imagem */
+    background-position: center center; /* Para centralizar a imagem no cabeçalho */
+    height: 620px; /* Defina a altura desejada para o seu cabeçalho */
+    
+    
+}
